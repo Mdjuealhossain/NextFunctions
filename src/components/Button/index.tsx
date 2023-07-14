@@ -3,7 +3,7 @@ import React from "react";
 
 const Button=()=>{
     return (
-        <button>button text</button>
+        <button>button name</button>
     )
 }
 export default Button
